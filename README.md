@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akshansh Singh</h1>
+![banner (2)](https://github.com/Akshansh029/Akshansh029/assets/145496594/5c6b750f-a70a-4353-b27e-7d6d0d1ab82d)
+
 <h3 align="center">An aspiring frontend developer from Chhattisgarh,India.</h3>
 
 - 🔭 I’m currently working on **my Portfolio website**
