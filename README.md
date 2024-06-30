@@ -1,5 +1,5 @@
 [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
-<h1 align="center">Hello 👋, I'm Akshansh Singh</h1>
+<h1 align="center">Hello👋, I'm Akshansh Singh</h1>
 <h3 align="center">An aspiring frontend developer from India</h3>
 
 ## 💫 About Me
