@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring frontend developer from India</h3>
 
 ## 💫 About Me
-🔭 I’m currently working on a Expense Tracker project<br>🌱 I’m currently learning NextJS and Typescript<br>🤝 I’m looking for help with backend development<br>👨‍💻 My portfolio website is available at https://akshansh-singh.netlify.app/<br>📫 How to reach me akshanshsingh00@gmail.com
+🔭 I’m currently working on a Expense Tracker project<br>🌱 I’m currently learning NextJS and Typescript<br>🤝 I’m looking for help with backend development<br>👨‍💻 My portfolio website is available at [https://akshansh-singh.netlify.app/](https://akshansh-singh.vercel.app/)<br>📫 How to reach me akshanshsingh00@gmail.com
 
 
 ## 🌐 Socials:
