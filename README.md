@@ -8,7 +8,7 @@
 <h3 align="center">An aspiring full-stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on a collaboration tool project<br>🌱 I’m currently learning Data Structures and Algorithms<br>🤝 I’m looking for help with backend development<br>👨‍💻 My portfolio website is available at https://akshansh-singh.netlify.app/<br>📫 How to reach me akshanshsingh00@gmail.com
+🔭 I’m currently working on a collaboration tool project<br>🌱 I’m currently learning Data Structures and Algorithms<br>🤝 I’m looking for help with backend development<br>👨‍💻 My portfolio website is available at [https://akshansh-singh.netlify.app/](https://akshansh-singh.vercel.app/)<br>📫 How to reach me akshanshsingh00@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__akshansh_singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshansh-singh-3b6718250) 
