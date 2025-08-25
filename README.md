@@ -22,9 +22,7 @@
 ### 📊 GitHub Stats:   
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Akshansh029&theme=radical"
-    alt="Akshansh's GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=akshansh029&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
