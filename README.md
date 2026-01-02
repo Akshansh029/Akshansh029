@@ -27,10 +27,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=akshansh029&theme=radical&show_icons=true&hide_border=true&include_all_commits=true"
-    alt="Akshansh's GitHub stats" />
+    src="https://github-readme-stats-fast.vercel.app/api?username=akshansh029&show_icons=true&theme=radical&show_all_commits=true&hide_border=true"
+    alt="GitHub stats" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshansh029&theme=radical&hide_border=true&layout=compact"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akshansh029&layout=compact&theme=radical&hide_border=true"
     alt="Top languages" />
 </p>
 
@@ -38,7 +38,7 @@
 ### 📈 Github summary
 <p align="center">
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshansh029&theme=github_dark&hide_border=false"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshansh029&theme=github_dark&hide_border=false&show_all_commits=true"
     alt="GitHub Contribution Graph" />
 </p>
 
