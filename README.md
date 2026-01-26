@@ -5,7 +5,7 @@
 </p>
 
 ### About Me:
-🔭 I’m currently working on a Smart Study Scheduler application<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Frontend Development<br>👨‍💻 My portfolio website is available at https://akshansh-singh.vercel.app<br>📫 How to reach me akshanshsingh00@gmail.com
+🔭 I’m currently working on my backend development skills.<br>🌱 I’m currently learning Spring Boot.<br>💬 Ask me about frontend development.<br>👨‍💻 My portfolio website is available at https://akshansh-singh.vercel.app.<br>📫 How to reach me: akshanshsingh00@gmail.com
 
 
 ### 🌐 Socials:
