@@ -15,7 +15,7 @@
 ### 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,css,d3,docker,express,figma,firebase,git,github,gradle,html,java,js,jenkins,kubernetes,linux,md,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,postgres,postman,prisma,prometheus,py,react,redux,supabase,tailwind,ts,vercel,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,c,css,d3,docker,express,figma,firebase,git,github,gradle,html,idea,java,js,jenkins,kubernetes,linux,md,mongodb,mysql,netlify,nextjs,nodejs,notion,npm,postgres,postman,prisma,prometheus,py,react,redux,spring,supabase,tailwind,ts,vercel,vite,vscode" />
   </a>
 </p>
 
